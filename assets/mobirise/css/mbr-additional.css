@@ -1640,10 +1640,6 @@ body {
 .cid-qTkzRZLJNu .collapsed .navbar-collapse.show .navbar-nav .nav-item {
   clear: both;
 }
-.cid-qTkzRZLJNu .collapsed .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
-.cid-qTkzRZLJNu .collapsed .navbar-collapse.show .navbar-nav .nav-item:last-child {
-  margin-bottom: 1rem;
-}
 .cid-qTkzRZLJNu .collapsed .navbar-collapse.collapsing .navbar-buttons,
 .cid-qTkzRZLJNu .collapsed .navbar-collapse.show .navbar-buttons {
   text-align: center;
@@ -1737,10 +1733,6 @@ body {
   .cid-qTkzRZLJNu .navbar-collapse.collapsing .navbar-nav .nav-item,
   .cid-qTkzRZLJNu .navbar-collapse.show .navbar-nav .nav-item {
     clear: both;
-  }
-  .cid-qTkzRZLJNu .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
-  .cid-qTkzRZLJNu .navbar-collapse.show .navbar-nav .nav-item:last-child {
-    margin-bottom: 1rem;
   }
   .cid-qTkzRZLJNu .navbar-collapse.collapsing .navbar-buttons,
   .cid-qTkzRZLJNu .navbar-collapse.show .navbar-buttons {
@@ -2305,45 +2297,17 @@ body {
   padding-bottom: 30px;
   background-color: #2e2e2e;
 }
-.cid-rF2RrnUqMY {
-  padding-top: 90px;
-  padding-bottom: 90px;
+.cid-s8h6hdmeQf {
+  padding-top: 60px;
+  padding-bottom: 60px;
   background-color: #ffffff;
 }
-.cid-rF2RrnUqMY .mbr-section-subtitle {
+.cid-s8h6hdmeQf .mbr-text,
+.cid-s8h6hdmeQf blockquote {
   color: #767676;
 }
-.cid-rF2RrnUqMY .media-row {
-  display: -webkit-flex;
-  justify-content: center;
-  -webkit-justify-content: center;
-}
-.cid-rF2RrnUqMY .team-item {
-  transition: all .2s;
-  margin-bottom: 2rem;
-}
-.cid-rF2RrnUqMY .team-item .item-image img {
-  width: 100%;
-}
-.cid-rF2RrnUqMY .team-item .item-name p {
-  margin-bottom: 0;
-}
-.cid-rF2RrnUqMY .team-item .item-role p {
-  margin-bottom: 0;
-}
-.cid-rF2RrnUqMY .team-item .item-social {
-  display: -webkit-flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  -webkit-flex-wrap: wrap;
-  -webkit-justify-content: center;
-}
-.cid-rF2RrnUqMY .team-item .item-social .socicon {
+.cid-s8h6hdmeQf .mbr-text {
   color: #232323;
-  font-size: 17px;
-}
-.cid-rF2RrnUqMY .team-item .item-caption {
-  background: #efefef;
 }
 .cid-rAmaP9HxH2 {
   padding-top: 30px;
