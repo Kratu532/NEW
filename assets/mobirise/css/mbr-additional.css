@@ -2270,6 +2270,87 @@ body {
 .cid-rBF6W4IL9O .card-img:hover .mbr-section-btn {
   opacity: 1;
 }
+.cid-s8u02AUujh {
+  padding-top: 0px;
+  padding-bottom: 30px;
+  background-color: #d2f3d3;
+}
+.cid-s8u02AUujh .mbr-section-subtitle,
+.cid-s8u02AUujh .mbr-text {
+  color: #767676;
+}
+.cid-s8u02AUujh .card {
+  display: -webkit-flex;
+  position: relative;
+  justify-content: center;
+  -webkit-justify-content: center;
+}
+.cid-s8u02AUujh .card-wrapper {
+  height: 100%;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
+}
+.cid-s8u02AUujh .card-wrapper .card-img {
+  display: -webkit-flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  overflow: hidden;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  -webkit-flex-direction: column;
+  -webkit-align-items: center;
+  -webkit-justify-content: center;
+}
+.cid-s8u02AUujh .card-wrapper .card-img .mbr-overlay {
+  background-color: #ffffff;
+  display: none;
+  transition: opacity .3s;
+}
+.cid-s8u02AUujh .card-wrapper .card-img .mbr-section-btn {
+  position: absolute;
+  transition: opacity .3s;
+  width: 100%;
+  left: 0;
+  top: 50%;
+  height: auto;
+  transform: translateY(-50%);
+}
+.cid-s8u02AUujh .card-wrapper .card-img img {
+  width: 100%;
+}
+.cid-s8u02AUujh .card-wrapper .card-box {
+  background-color: #ffffff;
+  padding: 0 2rem 2rem 2rem;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+}
+.cid-s8u02AUujh .card-wrapper .card-box h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  padding-top: 2rem;
+}
+.cid-s8u02AUujh .card-wrapper .card-box p {
+  margin-bottom: 0;
+  padding-top: 1.5rem;
+}
+.cid-s8u02AUujh .card-wrapper:hover {
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
+}
+.cid-s8u02AUujh .card-img .mbr-overlay {
+  display: block !important;
+  opacity: 0;
+}
+.cid-s8u02AUujh .card-img .mbr-section-btn {
+  opacity: 0;
+}
+.cid-s8u02AUujh .card-img:hover .mbr-overlay {
+  opacity: .5;
+}
+.cid-s8u02AUujh .card-img:hover .mbr-section-btn {
+  opacity: 1;
+}
 .cid-rAmaP9HxH2 {
   padding-top: 30px;
   padding-bottom: 30px;
@@ -2501,7 +2582,7 @@ body {
 .cid-s86dZGwUyN {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-image: url("../../../assets/images/background4.jpg");
+  background-image: url("../../../assets/images/mbr-1046x640.jpg");
 }
 .cid-s86edg7XbC {
   padding-top: 60px;
