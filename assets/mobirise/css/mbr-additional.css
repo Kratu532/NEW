@@ -1,4 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Rubik:300,400,500,600,700,800,900,300i,400i,500i,600i,700i,800i,900i&display=swap);
+@import url(https://fonts.googleapis.com/css?family=Special+Elite:400&display=swap);
+@import url(https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&display=swap);
 
 
 
@@ -24,7 +26,7 @@ body {
   font-size: 4.8rem;
 }
 .display-4 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-size: 1rem;
   font-display: swap;
 }
@@ -32,7 +34,7 @@ body {
   font-size: 1.6rem;
 }
 .display-5 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Special Elite', display;
   font-size: 1.5rem;
   font-display: swap;
 }
@@ -920,6 +922,14 @@ section.lazy-placeholder:after {
 .cid-sluacjqPTD P {
   text-align: center;
 }
+.cid-smJnhKL9bV {
+  background-image: url("../../../assets/images/mbr-1086x641.jpeg");
+}
+.cid-smJuxS436W {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/mbr-2.jpg");
+}
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
   background: #333333;
@@ -1310,8 +1320,8 @@ section.lazy-placeholder:after {
   color: #c1c1c1 !important;
 }
 .cid-rB1zjVPHQm {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 60px;
+  padding-bottom: 45px;
   background-color: #efefef;
 }
 .cid-rB1zjVPHQm .mbr-section-subtitle,
@@ -1391,7 +1401,7 @@ section.lazy-placeholder:after {
   opacity: 1;
 }
 .cid-seSHeQ1PmJ {
-  padding-top: 90px;
+  padding-top: 45px;
   padding-bottom: 90px;
   background-color: #efefef;
 }
@@ -3563,6 +3573,23 @@ section.lazy-placeholder:after {
   padding-top: 30px;
   padding-bottom: 30px;
   background-color: #2e2e2e;
+}
+.cid-smxxatQ0YV {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-image: url("../../../assets/images/background4.jpg");
+}
+.cid-smxxmj3c2y {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-smxxmj3c2y .mbr-text,
+.cid-smxxmj3c2y blockquote {
+  color: #767676;
+}
+.cid-smxxmj3c2y .mbr-text {
+  color: #232323;
 }
 .cid-rAmaP9HxH2 {
   padding-top: 30px;
